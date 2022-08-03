@@ -1,0 +1,3 @@
+Chave (CPF, celular, e-mail)
+Chave criptografada
+QR CODE
