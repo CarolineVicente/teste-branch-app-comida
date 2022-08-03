@@ -1,0 +1,2 @@
+Restaurantes presentes no App
+Dividido por tipo de comida (japonesa, pizza, hamburguer, italiana, etc)
